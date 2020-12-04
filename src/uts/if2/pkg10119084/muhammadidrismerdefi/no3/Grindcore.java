@@ -10,13 +10,8 @@ Kelas : PBOIF2
 NIM : 10119084
 Deskripsi Program : Program ini berisi program untuk menampilkan genre musik
  */
-public class UTSIF210119084MUHAMMADIDRISMERDEFINo3 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Grindcore extends Metal{
+    public void genreGrindcore(String artistName){
+        
     }
-    
 }
